@@ -130,7 +130,7 @@ else{
                     labelFontFamily:"verdana0"
                 },
             axisY: {
-                title: "Revenue ($)",
+                title: "Revenue (VND)",
             },
             data: [{
                 type: "column", //change type to bar, line, area, pie, etc  
