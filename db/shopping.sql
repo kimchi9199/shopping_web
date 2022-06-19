@@ -175,10 +175,10 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`id`, `category`, `subCategory`, `productName`, `productCompany`, `productPrice`, `productPriceBeforeDiscount`, `productDescription`, `productImage1`, `productImage2`, `productImage3`, `shippingCharge`, `productAvailability`, `postingDate`, `updationDate`) VALUES
-(21, 3, 8, 'Cadillac Ring 1.25CT W', 'PNJ', 162, 191, '<div>Material White: 14K Gold</div><div>Main Stone&nbsp; &nbsp; &nbsp; :&nbsp; &nbsp; CZ WHIRD 7.0x1 .&nbsp;</div><div>Assistant&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; KC DIA WHIRD2.4x34,2.0x8,1.8x10,1.4x16,1.1x16</div>', 'nhankc1.1.jpg', 'nhankc1.2.jpg', 'nhankc1.3.jpg', 50000, 'In Stock', '2022-05-04 15:23:03', NULL),
-(22, 3, 13, 'Accalia Necklace 1CT', 'PNJ', 23, 19, '<br>', 'Necklace_Diamond.png', 'Necklace_Diamond.png', 'Necklace_Diamond.png', 50000, 'In Stock', '2022-05-18 13:08:17', NULL),
-(23, 3, 14, 'Admiration Earrings 12p ST', 'DOJI', 29, 34, '<br>', 'Earring_Diamond.png', 'Earring_Diamond.png', 'Earring_Diamond.png', 50000, 'In Stock', '2022-05-18 13:12:07', NULL),
-(24, 4, 4, 'Gold Ring 1.25CT W', 'DOJI', 5893, 6500000, '<br>', 'Ring_Gold.png', 'Ring_Gold.png', 'Ring_Gold.png', 50000, 'In Stock', '2022-05-18 13:24:43', NULL),
+(21, 3, 8, 'Cadillac Ring 1.25CT W', 'PNJ', 2500000, 191, '<div>Material White: 14K Gold</div><div>Main Stone&nbsp; &nbsp; &nbsp; :&nbsp; &nbsp; CZ WHIRD 7.0x1 .&nbsp;</div><div>Assistant&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; KC DIA WHIRD2.4x34,2.0x8,1.8x10,1.4x16,1.1x16</div>', 'nhankc1.1.jpg', 'nhankc1.2.jpg', 'nhankc1.3.jpg', 50000, 'In Stock', '2022-05-04 15:23:03', NULL),
+(22, 3, 13, 'Accalia Necklace 1CT', 'PNJ', 1500000, 19, '<br>', 'Necklace_Diamond.png', 'Necklace_Diamond.png', 'Necklace_Diamond.png', 50000, 'In Stock', '2022-05-18 13:08:17', NULL),
+(23, 3, 14, 'Admiration Earrings 12p ST', 'DOJI', 4000000, 34, '<br>', 'Earring_Diamond.png', 'Earring_Diamond.png', 'Earring_Diamond.png', 50000, 'In Stock', '2022-05-18 13:12:07', NULL),
+(24, 4, 4, 'Gold Ring 1.25CT W', 'DOJI', 200000, 6500000, '<br>', 'Ring_Gold.png', 'Ring_Gold.png', 'Ring_Gold.png', 50000, 'In Stock', '2022-05-18 13:24:43', NULL),
 (25, 4, 2, 'Gold Necklace 1CT', 'DOJI', 3500000, 3820000, '<br>', 'Necklace_Gold.png', 'Necklace_Gold.png', 'Necklace_Gold.png', 50000, 'In Stock', '2022-05-18 13:36:29', NULL),
 (26, 4, 3, 'Gold Ring 1.25CT W', 'DOJI', 5000000, 6081000, '<br>', 'Earring_Gold.png', 'Earring_Gold.png', 'Earring_Gold.png', 50000, 'In Stock', '2022-05-18 13:37:45', NULL);
 
